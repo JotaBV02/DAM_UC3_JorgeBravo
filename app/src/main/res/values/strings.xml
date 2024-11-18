@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DAM_UC3_JorgeBravo</string>
+    <string name="Correo_id">Correo Electronico\n</string>
+    <string name="Contraseña_id">Contraseña</string>
+    <string name="Entrar_id">Entrar</string>
+    <string name="Correo_id_login">Correo Electronico</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Email">Tu direccion\nde correo electronico</string>
+    <string name="Contraseña">Contraseña\nnueva</string>
+    <string name="Sexo">Sexo</string>
+    <string name="FechaNacimiento">Fecha de\nnacimiento</string>
+    <string name="Info">¿Por que tengo que dar esta informacion?</string>
+    <string name="Registrate">Registrate</string>
+    <string name="Texto1">Crear una pagina</string>
+    <string name="Texto2">para un famoso, grupo de musica o empresa.</string>
+    <string name="NoCerrar">No Cerrar Sesion</string>
+    <string name="Olv_Contr">¿Has olvidado tu contraseña?</string>
+    <string name="NoC">No Cerrar Sesion</string>
+</resources>
